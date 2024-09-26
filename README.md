@@ -37,4 +37,15 @@ Before running the script, ensure that the following tools are installed and ava
    ```bash
    git clone https://github.com/Saitle/V1enum.git
    cd V1enum
+2. Make the script executable
+   ```bash
+   chmod +x v2enum.sh
+3. Fire up!!!
+   ```bash
+   ./v2enum.sh -d <domain>
+
+
+
+💡 **Pro Tip**: Before you hit that 'Enter' key, make sure to edit the script and add your **Shodan API key** in place of `<shodan_api_key`. Don't worry, I won’t tell anyone if you forget to do it the first time. 😉
+
 
