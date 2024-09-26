@@ -1,4 +1,4 @@
-# V1enum
+# V2enum
 
 ![Cybersecurity Script in Action](./v1.png)
 
