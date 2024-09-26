@@ -1,6 +1,6 @@
 # V1enum
 
-![Cybersecurity Script in Action](./A_sleek,_modern_tech_setup_on_a_desk_featuring_mul.png)
+![Cybersecurity Script in Action](./v1.png)
 
 ## Overview
 
