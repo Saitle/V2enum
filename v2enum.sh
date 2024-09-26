@@ -64,7 +64,7 @@ curl -s "https://crt.sh/?q=%25.$DOMAIN&output=json" | jq -r '.[].name_value' | t
 sleep 3
 
 echo "Running shosubgo..."
-shosubgo -d "$DOMAIN" -s 'iHEafzbosLrrv3wCP7wtvHd5vdzfMe1t' >> "$OUTPUT_FILE"
+shosubgo -d "$DOMAIN" -s '<shodan_api_key>' >> "$OUTPUT_FILE"
 sleep 2
 
 echo "Enumerating ASNs"
